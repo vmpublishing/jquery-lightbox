@@ -1,0 +1,10 @@
+{
+  "name": "jquery-lightbox",
+  "version": "0.5.0",
+  "description": "provide repo and package.json for used component",
+  "repository": "git@github.com:vmpublishing/jquery-lightbox.git",
+  "license": "http://creativecommons.org/licenses/by-sa/2.5/br/deed.en_US",
+  "dependencies": {
+    "jquery": ">=1.6.0"
+  }
+}
